@@ -2282,6 +2282,7 @@
     <Content Include="Views\Test1\TriangleArea.cshtml" />
     <Content Include="Views\Test1\TestAPI.cshtml" />
     <Content Include="Views\Test1\CitizenID.cshtml" />
+    <Content Include="Views\Shared\ErrorID.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
